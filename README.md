@@ -1,5 +1,6 @@
 # duckgame
 
+devpost - https://devpost.com/software/a-pecks-legends
 
 Inspiration
 
