@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pickup
+  - Bullet
+  - Health
+  - GameCanvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 3243126303
+    locked: 0
+  - name: Pickups
+    uniqueID: 4278800729
+    locked: 0
+  - name: Player
+    uniqueID: 402338011
+    locked: 0
+  - name: Projectile
+    uniqueID: 4159894637
+    locked: 0
+  - name: Zone
+    uniqueID: 1439520459
+    locked: 0
+  - name: UI
+    uniqueID: 2993845749
+    locked: 0
